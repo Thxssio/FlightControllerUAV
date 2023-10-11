@@ -1,0 +1,3 @@
+[submodule "MPU6050AnglesMesur"]
+	path = MPU6050AnglesMesur
+	url = https://github.com/Thxssio/MPU6050AnglesMesure.git
