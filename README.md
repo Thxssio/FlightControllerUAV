@@ -12,3 +12,17 @@ https://github.com/Thxssio/MPU6050AnglesMesure
 ```
 
 ```
+
+- [ ] Kalman Filter 1D
+```
+
+```
+- [ ] Kalman Filter 2D
+```
+
+```
+- [ ] PCB
+```
+
+```
+
