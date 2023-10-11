@@ -13,6 +13,11 @@ https://github.com/Thxssio/MPU6050AnglesMesure
 
 ```
 
+- [ ] Mesure HMC5883L 
+```
+
+```
+
 - [ ] Kalman Filter 1D
 ```
 
